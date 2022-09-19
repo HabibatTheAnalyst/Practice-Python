@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 from __future__ import print_function
 
 import os.path
@@ -53,4 +50,3 @@ def main():
 
 if __name__ == '__main__':
     main()
->>>>>>> 13204e44bd86ffdb953389634c411f50cb1f287d
